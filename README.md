@@ -10,7 +10,7 @@ This project is themed with a **retro arcade** vibe:
 - 🧱 **Pixel-style UI** reminiscent of classic 8-bit games
 - 🎮 Inspired by **Super Mario** and NES color palettes
 - 🎵 Uses the **Bitcount Grid Double** Google Font for that true arcade feel
-- 🟩 Bright buttons, chunky borders, and pixelated icons
+- 🟩 Emoji buttons, dotted/dashed borders, and tropical color palette.
 
 ---
 
@@ -36,5 +36,8 @@ This project is themed with a **retro arcade** vibe:
 ## 🖼️ Screenshot
 
 > _“It’s dangerous to go alone! Take this game.”_
+><img width="1469" alt="Screenshot 2025-06-29 at 11 53 27 PM" src="https://github.com/user-attachments/assets/68624c21-e4b4-4689-8fa1-221a0deb9753" />
+
+> 
 
 
