@@ -44,3 +44,39 @@ button {
     font-size: 5rem;
     color: rgb(66, 85, 228);
 }
+.reset-btn {
+    font-size: medium;
+    width: 120px;
+    height: 50px;
+    border: none;
+    color: white;
+    font-family: "Bitcoin Grid Double";
+    background-color: blue;
+}
+
+@media (max-width: 600px) {
+  body {
+    background-size: cover;
+    background-repeat: repeat;
+  }
+
+  h1 {
+    text-align: center;
+    color: rgb(43, 122, 239);
+  }
+  button {
+    font-size: 2.5rem;
+    width: 20%;
+    margin: 10px;
+    border: none;
+  }
+
+  #playerScoreDisplay,
+  #computerScoreDisplay,
+  #pd,
+  #cd,
+  #result {
+    font-size: 0.9rem;
+    margin: auto 10px;
+  }
+}
