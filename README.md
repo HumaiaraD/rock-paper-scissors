@@ -9,7 +9,7 @@ A fun, pixel-art-inspired Rock-Paper-Scissors game made with **HTML**, **CSS**, 
 This project is themed with a **retro arcade** vibe:
 - 🧱 **Pixel-style UI** reminiscent of classic 8-bit games
 - 🎮 Inspired by **Super Mario** and NES color palettes
-- 🎵 Uses the [**"Press Start 2P"**](https://fonts.google.com/specimen/Press+Start+2P) Google Font for that true arcade feel
+- 🎵 Uses the **Bitcount Grid Double** Google Font for that true arcade feel
 - 🟩 Bright buttons, chunky borders, and pixelated icons
 
 ---
